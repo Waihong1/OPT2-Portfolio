@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OPT2-Portfolio:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OPT2_Portfolio_jar</output-path>
+    <root id="archive" name="OPT2-Portfolio.jar">
+      <element id="module-output" name="OPT2-Portfolio" />
+    </root>
+  </artifact>
+</component>
